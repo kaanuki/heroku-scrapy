@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "name": "Simple Scrapy Script",
+  "version": "0.1.0",
+  "description": "Simple Scrapy Script",
   "engines": {
     "node": "6.11.1"
   },
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/ujway/heroku-scrapy"
   },
   "keywords": [
-    "node",
+    "python",
     "heroku",
-    "express"
+    "scrapy"
   ],
   "license": "MIT"
 }
